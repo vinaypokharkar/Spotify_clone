@@ -13,14 +13,3 @@
 
 3. [How to use git?](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
-### Socials
-
-1. Instagram: https://instagram.com/_ritxvik_
-2. Website: https://rithvikshetty.in
-3. Linkedin: https://linkedin.com/rithvikshetty
-
-## Contributers
-
-<a href="https://github.com/rithvikshettyy/Spotify/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rithvikshettyy/Spotify" />
-</a>
